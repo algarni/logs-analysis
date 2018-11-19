@@ -9,6 +9,7 @@ This is a Python program for generating reports based on `news` database. The re
 
 # Usage
 `cd logs-analysis/`
+
 `python3 report.py`
 
 # License
