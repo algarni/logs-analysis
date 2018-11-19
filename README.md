@@ -8,7 +8,8 @@ This is a Python program for generating reports based on `news` database. The re
 `git clone https://github.com/algarni/logs-analysis.git`
 
 # Usage
-`python3 logs-analysis.py`
+`cd logs-analysis/`
+`python3 report.py`
 
 # License
 MIT
